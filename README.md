@@ -3,7 +3,7 @@
  <img width="586" alt="preview" src="https://user-images.githubusercontent.com/116590644/224378005-0a2f3f30-4d75-4177-8a48-c63320854b11.png">
 </p>
 
-Homework and laboratories of the [Network Dynamics and Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXLSM&p_a_acc=2021&p_header=S&p_lang=IT) course for the MSc in Data Science and Engineering at Politecnico di Torino.
+Homeworks of the [Network Dynamics and Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXLSM&p_a_acc=2021&p_header=S&p_lang=IT) course for the MSc in Data Science and Engineering at Politecnico di Torino.
 
 
 ## Homework 1:
