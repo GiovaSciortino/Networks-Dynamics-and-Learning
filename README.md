@@ -1,6 +1,6 @@
 # Network-Dynamics-and-Learning
 
-![preview](Lab/preview.png)
+![preview](preview.png)
 
 Homework and laboratories of the [Network Dynamics and Learning](https://didattica.polito.it/pls/portal30/gap.pkg_guide.viewGap?p_cod_ins=01TXLSM&p_a_acc=2021&p_header=S&p_lang=IT) course for the MSc in Data Science and Engineering at Politecnico di Torino.
 
